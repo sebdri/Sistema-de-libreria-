@@ -29,6 +29,7 @@ def new_book_data():
     """
 
     # Solicita los datos principales del libro
+    name = input("Ingresa tu nombre: " )
     tittle = input("Ingrese el titulo del libro nuevo: ")
     author = input("Ingrese el nombre del autor de dicho libro: ")
     while True:
@@ -77,6 +78,8 @@ def new_book_data():
 
     # Diccionario principal que contiene toda la información del libro
     new_book = {
+
+        "Users name": name,
 
         "Titulo": tittle,
 
@@ -145,7 +148,7 @@ def main():
     save_files(file_path, books)
 
     # Mensaje de confirmación
-    print("¡Libro agregado correctamente!")
+    print(f"¡Libro agregado correctamente!")
 
 
 # Ejecuta la función principal del programa

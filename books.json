@@ -72,15 +72,15 @@
         "Titulo": "Clean Code",
         "Autor": "Robert C. Martin",
         "Año": 2008,
-        "Genero": "Programación",
+        "Genero": "Programación / Ingeniería de Software",
         "Paginas": 464,
         "Disponible": true,
         "Editorial": "Prentice Hall",
         "Palabras_clave": [
             "programación",
             "código limpio",
-            "software",
             "buenas prácticas",
+            "software",
             "desarrollo"
         ],
         "Informacion": {
@@ -95,7 +95,7 @@
         "Titulo": "Hábitos Atómicos",
         "Autor": "James Clear",
         "Año": 2018,
-        "Genero": "Desarrollo personal",
+        "Genero": "Desarrollo Personal",
         "Paginas": 320,
         "Disponible": true,
         "Editorial": "Avery",
@@ -111,7 +111,7 @@
             "Idioma": "Español",
             "Edicion": 1,
             "Calificacion": 4.9,
-            "Prestamos": 91
+            "Prestamos": 76
         }
     },
     {
@@ -125,16 +125,16 @@
         "Palabras_clave": [
             "python",
             "programación",
+            "proyectos",
             "aprendizaje",
-            "desarrollo",
-            "proyectos"
+            "desarrollo"
         ],
         "Informacion": {
             "ISBN": "9781593279288",
             "Idioma": "Inglés",
             "Edicion": 2,
             "Calificacion": 4.8,
-            "Prestamos": 74
+            "Prestamos": 63
         }
     },
     {
@@ -150,7 +150,7 @@
             "humanidad",
             "evolución",
             "civilización",
-            "cultura"
+            "sociedad"
         ],
         "Informacion": {
             "ISBN": "9780062316097",
@@ -158,6 +158,98 @@
             "Edicion": 1,
             "Calificacion": 4.8,
             "Prestamos": 67
+        }
+    },
+    {
+        "Titulo": "The Pragmatic Programmer",
+        "Autor": "Andrew Hunt y David Thomas",
+        "Año": 1999,
+        "Genero": "Programación",
+        "Paginas": 352,
+        "Disponible": true,
+        "Editorial": "Addison-Wesley",
+        "Palabras_clave": [
+            "software",
+            "arquitectura",
+            "programación",
+            "ingeniería",
+            "desarrollo"
+        ],
+        "Informacion": {
+            "ISBN": "9780201616224",
+            "Idioma": "Inglés",
+            "Edicion": 2,
+            "Calificacion": 4.9,
+            "Prestamos": 59
+        }
+    },
+    {
+        "Titulo": "El Señor de los Anillos",
+        "Autor": "J. R. R. Tolkien",
+        "Año": 1954,
+        "Genero": "Fantasía",
+        "Paginas": 1216,
+        "Disponible": false,
+        "Editorial": "George Allen & Unwin",
+        "Palabras_clave": [
+            "fantasía",
+            "aventura",
+            "anillo",
+            "hobbits",
+            "épico"
+        ],
+        "Informacion": {
+            "ISBN": "9780618640157",
+            "Idioma": "Español",
+            "Edicion": 3,
+            "Calificacion": 4.9,
+            "Prestamos": 95
+        }
+    },
+    {
+        "Titulo": "Cien años de soledad",
+        "Autor": "Gabriel García Márquez",
+        "Año": 1967,
+        "Genero": "Realismo mágico",
+        "Paginas": 471,
+        "Disponible": true,
+        "Editorial": "Editorial Sudamericana",
+        "Palabras_clave": [
+            "Macondo",
+            "familia",
+            "realismo mágico",
+            "Latinoamérica",
+            "clásico"
+        ],
+        "Informacion": {
+            "ISBN": "9780307474728",
+            "Idioma": "Español",
+            "Edicion": 8,
+            "Calificacion": 4.9,
+            "Prestamos": 104
+        }
+    },
+    {
+        "Titulo": "Crimen y castigo",
+        "Autor": "Fiódor Dostoyevski",
+        "Año": 1866,
+        "Genero": "Novela psicológica",
+        "Paginas": 671,
+        "Disponible": true,
+        "Editorial": "The Russian Messenger",
+        "Palabras_clave": [
+            "crimen",
+            "psicología",
+            "culpa",
+            "filosofía",
+            "Rusia"
+        ],
+        "Informacion": {
+            "ISBN": "9780486415871",
+            "Idioma": "Español",
+            "Edicion": 4,
+            "Calificacion": 4.8,
+            "Prestamos": 49
         }
     }
 ]
