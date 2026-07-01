@@ -1,22 +1,22 @@
 [
     {
         "Titulo": "El Principito",
-        "Autor": "Antoine de Saint-Exupéry",
-        "Año": 1943,
-        "Genero": "Ficción",
+        "Autor": "Antoine de Saint-Exup\u00e9ry",
+        "A\u00f1o": 1943,
+        "Genero": "Ficci\u00f3n",
         "Paginas": 96,
         "Disponible": true,
         "Editorial": "Reynal & Hitchcock",
         "Palabras_clave": [
             "amistad",
             "aventura",
-            "filosofía",
+            "filosof\u00eda",
             "infancia",
             "amor"
         ],
         "Informacion": {
             "ISBN": "978-0156012195",
-            "Idioma": "Español",
+            "Idioma": "Espa\u00f1ol",
             "Edicion": 1,
             "Calificacion": 4.8,
             "Prestamos": 35
@@ -25,21 +25,21 @@
     {
         "Titulo": "1984",
         "Autor": "George Orwell",
-        "Año": 1949,
-        "Genero": "Ciencia ficción",
+        "A\u00f1o": 1949,
+        "Genero": "Ciencia ficci\u00f3n",
         "Paginas": 328,
         "Disponible": false,
         "Editorial": "Secker & Warburg",
         "Palabras_clave": [
-            "distopía",
-            "política",
+            "distop\u00eda",
+            "pol\u00edtica",
             "sociedad",
             "control",
             "futuro"
         ],
         "Informacion": {
             "ISBN": "978-0451524935",
-            "Idioma": "Español",
+            "Idioma": "Espa\u00f1ol",
             "Edicion": 2,
             "Calificacion": 4.7,
             "Prestamos": 58
@@ -48,21 +48,21 @@
     {
         "Titulo": "Don Quijote de la Mancha",
         "Autor": "Miguel de Cervantes",
-        "Año": 1605,
+        "A\u00f1o": 1605,
         "Genero": "Novela",
         "Paginas": 863,
         "Disponible": true,
         "Editorial": "Francisco de Robles",
         "Palabras_clave": [
-            "caballería",
+            "caballer\u00eda",
             "aventura",
             "humor",
-            "clásico",
-            "España"
+            "cl\u00e1sico",
+            "Espa\u00f1a"
         ],
         "Informacion": {
             "ISBN": "978-0060934347",
-            "Idioma": "Español",
+            "Idioma": "Espa\u00f1ol",
             "Edicion": 5,
             "Calificacion": 4.9,
             "Prestamos": 82
@@ -71,44 +71,44 @@
     {
         "Titulo": "Clean Code",
         "Autor": "Robert C. Martin",
-        "Año": 2008,
-        "Genero": "Programación / Ingeniería de Software",
+        "A\u00f1o": 2008,
+        "Genero": "Programaci\u00f3n / Ingenier\u00eda de Software",
         "Paginas": 464,
         "Disponible": true,
         "Editorial": "Prentice Hall",
         "Palabras_clave": [
-            "programación",
-            "código limpio",
-            "buenas prácticas",
+            "programaci\u00f3n",
+            "c\u00f3digo limpio",
+            "buenas pr\u00e1cticas",
             "software",
             "desarrollo"
         ],
         "Informacion": {
             "ISBN": "9780132350884",
-            "Idioma": "Inglés",
+            "Idioma": "Ingl\u00e9s",
             "Edicion": 1,
             "Calificacion": 4.7,
             "Prestamos": 58
         }
     },
     {
-        "Titulo": "Hábitos Atómicos",
+        "Titulo": "H\u00e1bitos At\u00f3micos",
         "Autor": "James Clear",
-        "Año": 2018,
+        "A\u00f1o": 2018,
         "Genero": "Desarrollo Personal",
         "Paginas": 320,
         "Disponible": true,
         "Editorial": "Avery",
         "Palabras_clave": [
-            "hábitos",
+            "h\u00e1bitos",
             "productividad",
             "disciplina",
             "crecimiento",
-            "éxito"
+            "\u00e9xito"
         ],
         "Informacion": {
             "ISBN": "9780735211292",
-            "Idioma": "Español",
+            "Idioma": "Espa\u00f1ol",
             "Edicion": 1,
             "Calificacion": 4.9,
             "Prestamos": 76
@@ -117,21 +117,21 @@
     {
         "Titulo": "Python Crash Course",
         "Autor": "Eric Matthes",
-        "Año": 2019,
-        "Genero": "Programación",
+        "A\u00f1o": 2019,
+        "Genero": "Programaci\u00f3n",
         "Paginas": 544,
         "Disponible": false,
         "Editorial": "No Starch Press",
         "Palabras_clave": [
             "python",
-            "programación",
+            "programaci\u00f3n",
             "proyectos",
             "aprendizaje",
             "desarrollo"
         ],
         "Informacion": {
             "ISBN": "9781593279288",
-            "Idioma": "Inglés",
+            "Idioma": "Ingl\u00e9s",
             "Edicion": 2,
             "Calificacion": 4.8,
             "Prestamos": 63
@@ -140,7 +140,7 @@
     {
         "Titulo": "Sapiens: De animales a dioses",
         "Autor": "Yuval Noah Harari",
-        "Año": 2011,
+        "A\u00f1o": 2011,
         "Genero": "Historia",
         "Paginas": 498,
         "Disponible": true,
@@ -148,13 +148,13 @@
         "Palabras_clave": [
             "historia",
             "humanidad",
-            "evolución",
-            "civilización",
+            "evoluci\u00f3n",
+            "civilizaci\u00f3n",
             "sociedad"
         ],
         "Informacion": {
             "ISBN": "9780062316097",
-            "Idioma": "Español",
+            "Idioma": "Espa\u00f1ol",
             "Edicion": 1,
             "Calificacion": 4.8,
             "Prestamos": 67
@@ -163,67 +163,67 @@
     {
         "Titulo": "The Pragmatic Programmer",
         "Autor": "Andrew Hunt y David Thomas",
-        "Año": 1999,
-        "Genero": "Programación",
+        "A\u00f1o": 1999,
+        "Genero": "Programaci\u00f3n",
         "Paginas": 352,
         "Disponible": true,
         "Editorial": "Addison-Wesley",
         "Palabras_clave": [
             "software",
             "arquitectura",
-            "programación",
-            "ingeniería",
+            "programaci\u00f3n",
+            "ingenier\u00eda",
             "desarrollo"
         ],
         "Informacion": {
             "ISBN": "9780201616224",
-            "Idioma": "Inglés",
+            "Idioma": "Ingl\u00e9s",
             "Edicion": 2,
             "Calificacion": 4.9,
             "Prestamos": 59
         }
     },
     {
-        "Titulo": "El Señor de los Anillos",
+        "Titulo": "El Se\u00f1or de los Anillos",
         "Autor": "J. R. R. Tolkien",
-        "Año": 1954,
-        "Genero": "Fantasía",
+        "A\u00f1o": 1954,
+        "Genero": "Fantas\u00eda",
         "Paginas": 1216,
         "Disponible": false,
         "Editorial": "George Allen & Unwin",
         "Palabras_clave": [
-            "fantasía",
+            "fantas\u00eda",
             "aventura",
             "anillo",
             "hobbits",
-            "épico"
+            "\u00e9pico"
         ],
         "Informacion": {
             "ISBN": "9780618640157",
-            "Idioma": "Español",
+            "Idioma": "Espa\u00f1ol",
             "Edicion": 3,
             "Calificacion": 4.9,
             "Prestamos": 95
         }
     },
     {
-        "Titulo": "Cien años de soledad",
-        "Autor": "Gabriel García Márquez",
-        "Año": 1967,
-        "Genero": "Realismo mágico",
+        "Titulo": "Cien a\u00f1os de soledad",
+        "Autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "A\u00f1o": 1967,
+        "Genero": "Realismo m\u00e1gico",
         "Paginas": 471,
         "Disponible": true,
         "Editorial": "Editorial Sudamericana",
         "Palabras_clave": [
             "Macondo",
             "familia",
-            "realismo mágico",
-            "Latinoamérica",
-            "clásico"
+            "realismo m\u00e1gico",
+            "Latinoam\u00e9rica",
+            "cl\u00e1sico"
         ],
         "Informacion": {
             "ISBN": "9780307474728",
-            "Idioma": "Español",
+            "Idioma": "Espa\u00f1ol",
             "Edicion": 8,
             "Calificacion": 4.9,
             "Prestamos": 104
@@ -231,25 +231,49 @@
     },
     {
         "Titulo": "Crimen y castigo",
-        "Autor": "Fiódor Dostoyevski",
-        "Año": 1866,
-        "Genero": "Novela psicológica",
+        "Autor": "Fi\u00f3dor Dostoyevski",
+        "A\u00f1o": 1866,
+        "Genero": "Novela psicol\u00f3gica",
         "Paginas": 671,
         "Disponible": true,
         "Editorial": "The Russian Messenger",
         "Palabras_clave": [
             "crimen",
-            "psicología",
+            "psicolog\u00eda",
             "culpa",
-            "filosofía",
+            "filosof\u00eda",
             "Rusia"
         ],
         "Informacion": {
             "ISBN": "9780486415871",
-            "Idioma": "Español",
+            "Idioma": "Espa\u00f1ol",
             "Edicion": 4,
             "Calificacion": 4.8,
             "Prestamos": 49
+        }
+    },
+    {
+        "Users name": "sebas",
+        "Titulo": "d",
+        "Autor": "c",
+        "Fecha de publicacion": 1,
+        "Genero": "c",
+        "Cantidad de paginas": 2,
+        "Disponibilidad": true,
+        "Editorial": "c",
+        "Palabras clave": [
+            "c",
+            "c",
+            "c",
+            "c",
+            "c"
+        ],
+        "Adicionales": {
+            "ISBN": "2",
+            "Idioma": "p",
+            "Numero de edicion": 2,
+            "Calificacion promedio": 3.0,
+            "Cantidad de prestamos realizados": 2
         }
     }
 ]
