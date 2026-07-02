@@ -275,5 +275,97 @@
             "Calificacion promedio": 3.0,
             "Cantidad de prestamos realizados": 2
         }
+    },
+    {
+        "Titulo": "Thinking, Fast and Slow",
+        "Autor": "Daniel Kahneman",
+        "Año": 2011,
+        "Genero": "Psicología",
+        "Paginas": 499,
+        "Disponible": true,
+        "Editorial": "Farrar, Straus and Giroux",
+        "Palabras_clave": [
+            "psicología",
+            "decisiones",
+            "pensamiento",
+            "cognición",
+            "mente"
+        ],
+        "Informacion": {
+            "ISBN": "9780374533557",
+            "Idioma": "Español",
+            "Edicion": 1,
+            "Calificacion": 4.8,
+            "Prestamos": 54
+        }
+    },
+    {
+        "Titulo": "Design Patterns",
+        "Autor": "Erich Gamma, Richard Helm, Ralph Johnson y John Vlissides",
+        "Año": 1994,
+        "Genero": "Programación / Ingeniería de Software",
+        "Paginas": 395,
+        "Disponible": true,
+        "Editorial": "Addison-Wesley",
+        "Palabras_clave": [
+            "patrones",
+            "POO",
+            "software",
+            "arquitectura",
+            "diseño"
+        ],
+        "Informacion": {
+            "ISBN": "9780201633610",
+            "Idioma": "Inglés",
+            "Edicion": 1,
+            "Calificacion": 4.9,
+            "Prestamos": 47
+        }
+    },
+    {
+        "Titulo": "Padre Rico, Padre Pobre",
+        "Autor": "Robert T. Kiyosaki",
+        "Año": 1997,
+        "Genero": "Finanzas Personales",
+        "Paginas": 336,
+        "Disponible": false,
+        "Editorial": "Warner Books",
+        "Palabras_clave": [
+            "finanzas",
+            "inversión",
+            "dinero",
+            "negocios",
+            "educación financiera"
+        ],
+        "Informacion": {
+            "ISBN": "9781612681139",
+            "Idioma": "Español",
+            "Edicion": 2,
+            "Calificacion": 4.7,
+            "Prestamos": 72
+        }
+    },
+    {
+        "Titulo": "Deep Work",
+        "Autor": "Cal Newport",
+        "Año": 2016,
+        "Genero": "Productividad",
+        "Paginas": 304,
+        "Disponible": true,
+        "Editorial": "Grand Central Publishing",
+        "Palabras_clave": [
+            "concentración",
+            "productividad",
+            "trabajo profundo",
+            "aprendizaje",
+            "éxito"
+        ],
+        "Informacion": {
+            "ISBN": "9781455586691",
+            "Idioma": "Español",
+            "Edicion": 1,
+            "Calificacion": 4.8,
+            "Prestamos": 61
+        }
     }
 ]
