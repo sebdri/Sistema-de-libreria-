@@ -367,5 +367,235 @@
             "Calificacion": 4.8,
             "Prestamos": 61
         }
+    },
+{
+    "Titulo": "The Clean Coder",
+    "Autor": "Robert C. Martin",
+    "Año": 2011,
+    "Genero": "Programación / Desarrollo Profesional",
+    "Paginas": 256,
+    "Disponible": true,
+    "Editorial": "Prentice Hall",
+    "Palabras_clave": [
+        "programación",
+        "profesionalismo",
+        "software",
+        "desarrollo",
+        "carrera"
+    ],
+    "Informacion": {
+        "ISBN": "9780137081073",
+        "Idioma": "Inglés",
+        "Edicion": 1,
+        "Calificacion": 4.7,
+        "Prestamos": 41
     }
+},
+{
+    "Titulo": "Refactoring",
+    "Autor": "Martin Fowler",
+    "Año": 2018,
+    "Genero": "Programación",
+    "Paginas": 448,
+    "Disponible": true,
+    "Editorial": "Addison-Wesley",
+    "Palabras_clave": [
+        "refactoring",
+        "código",
+        "software",
+        "ingeniería",
+        "buenas prácticas"
+    ],
+    "Informacion": {
+        "ISBN": "9780134757599",
+        "Idioma": "Inglés",
+        "Edicion": 2,
+        "Calificacion": 4.8,
+        "Prestamos": 37
+    }
+},
+{
+    "Titulo": "Harry Potter y la Piedra Filosofal",
+    "Autor": "J. K. Rowling",
+    "Año": 1997,
+    "Genero": "Fantasía",
+    "Paginas": 309,
+    "Disponible": false,
+    "Editorial": "Bloomsbury",
+    "Palabras_clave": [
+        "magia",
+        "aventura",
+        "hogwarts",
+        "fantasía",
+        "amistad"
+    ],
+    "Informacion": {
+        "ISBN": "9780747532699",
+        "Idioma": "Español",
+        "Edicion": 5,
+        "Calificacion": 4.9,
+        "Prestamos": 115
+    }
+},
+{
+    "Titulo": "El Alquimista",
+    "Autor": "Paulo Coelho",
+    "Año": 1988,
+    "Genero": "Novela",
+    "Paginas": 208,
+    "Disponible": true,
+    "Editorial": "HarperCollins",
+    "Palabras_clave": [
+        "sueños",
+        "viaje",
+        "filosofía",
+        "destino",
+        "superación"
+    ],
+    "Informacion": {
+        "ISBN": "9780061122415",
+        "Idioma": "Español",
+        "Edicion": 4,
+        "Calificacion": 4.7,
+        "Prestamos": 83
+    }
+},
+{
+    "Titulo": "The Mythical Man-Month",
+    "Autor": "Frederick P. Brooks Jr.",
+    "Año": 1975,
+    "Genero": "Ingeniería de Software",
+    "Paginas": 336,
+    "Disponible": true,
+    "Editorial": "Addison-Wesley",
+    "Palabras_clave": [
+        "software",
+        "proyectos",
+        "gestión",
+        "equipos",
+        "ingeniería"
+    ],
+    "Informacion": {
+        "ISBN": "9780201835953",
+        "Idioma": "Inglés",
+        "Edicion": 2,
+        "Calificacion": 4.6,
+        "Prestamos": 34
+    }
+},
+{
+    "Titulo": "Código Da Vinci",
+    "Autor": "Dan Brown",
+    "Año": 2003,
+    "Genero": "Suspenso",
+    "Paginas": 489,
+    "Disponible": true,
+    "Editorial": "Doubleday",
+    "Palabras_clave": [
+        "misterio",
+        "religión",
+        "historia",
+        "acción",
+        "conspiración"
+    ],
+    "Informacion": {
+        "ISBN": "9780307474278",
+        "Idioma": "Español",
+        "Edicion": 3,
+        "Calificacion": 4.5,
+        "Prestamos": 68
+    }
+},
+{
+    "Titulo": "Eloquent JavaScript",
+    "Autor": "Marijn Haverbeke",
+    "Año": 2018,
+    "Genero": "Programación",
+    "Paginas": 472,
+    "Disponible": true,
+    "Editorial": "No Starch Press",
+    "Palabras_clave": [
+        "javascript",
+        "web",
+        "programación",
+        "frontend",
+        "backend"
+    ],
+    "Informacion": {
+        "ISBN": "9781593279509",
+        "Idioma": "Inglés",
+        "Edicion": 3,
+        "Calificacion": 4.8,
+        "Prestamos": 45
+    }
+},
+{
+    "Titulo": "Introducción a los Algoritmos",
+    "Autor": "Thomas H. Cormen",
+    "Año": 2009,
+    "Genero": "Ciencias de la Computación",
+    "Paginas": 1312,
+    "Disponible": false,
+    "Editorial": "MIT Press",
+    "Palabras_clave": [
+        "algoritmos",
+        "estructuras de datos",
+        "computación",
+        "programación",
+        "matemáticas"
+    ],
+    "Informacion": {
+        "ISBN": "9780262033848",
+        "Idioma": "Inglés",
+        "Edicion": 3,
+        "Calificacion": 4.9,
+        "Prestamos": 92
+    }
+},
+{
+    "Titulo": "Cómo Ganar Amigos e Influir sobre las Personas",
+    "Autor": "Dale Carnegie",
+    "Año": 1936,
+    "Genero": "Desarrollo Personal",
+    "Paginas": 288,
+    "Disponible": true,
+    "Editorial": "Simon & Schuster",
+    "Palabras_clave": [
+        "liderazgo",
+        "comunicación",
+        "relaciones",
+        "éxito",
+        "negocios"
+    ],
+    "Informacion": {
+        "ISBN": "9780671027032",
+        "Idioma": "Español",
+        "Edicion": 6,
+        "Calificacion": 4.8,
+        "Prestamos": 78
+    }
+},
+{
+    "Titulo": "The Art of Computer Programming",
+    "Autor": "Donald E. Knuth",
+    "Año": 1968,
+    "Genero": "Ciencias de la Computación",
+    "Paginas": 672,
+    "Disponible": true,
+    "Editorial": "Addison-Wesley",
+    "Palabras_clave": [
+        "algoritmos",
+        "programación",
+        "computación",
+        "matemáticas",
+        "software"
+    ],
+    "Informacion": {
+        "ISBN": "9780201896831",
+        "Idioma": "Inglés",
+        "Edicion": 3,
+        "Calificacion": 5.0,
+        "Prestamos": 56
+    }
+}
 ]
